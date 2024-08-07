@@ -1,0 +1,5 @@
+[{"id":1,"case":"layar smartphone retak","description":"layar smartphone retak dan perlu diganti dengan yang baru","orderDate":"13/08/2024","UserId":1,"StoreId":1},
+{"id":2,"case":"kulkas tidak dingin","description":"kulkas tidak dingin lebih dari seminggu","orderDate":"11/08/2024","UserId":2,"StoreId":2},
+{"id":3,"case":"laptop lelet","description":"kinerja laptop lelet saat booting","orderDate":"07/08/2024","UserId":3,"StoreId":3},
+{"id":4,"case":"baterai handphone cepat habis","description":"baterai handphone cepat habis dan perlu diganti dengan yang baru","orderDate":"19/08/2024","UserId":4,"StoreId":4},
+{"id":5,"case":"kipas angin mati","description":"kipas angin tidak berfungsi meskipun sudah dinyalakan","orderDate":"07/08/2024","UserId":5,"StoreId":5}]
